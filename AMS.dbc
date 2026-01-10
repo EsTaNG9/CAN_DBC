@@ -112,16 +112,16 @@ BO_ 275 Slave_02_Temperature_ID_1: 8 AMS
  SG_ temperature_value_16 : 48|16@1+ (0.01,0) [0|0] "ºC" Vector__XXX
 
 BO_ 276 Slave_02_Temperature_ID_2: 8 AMS
- SG_ temperature_value_17 : 0|16@1+ (1,0) [0|0] "" Vector__XXX
- SG_ temperature_value_18 : 16|16@1+ (1,0) [0|0] "" Vector__XXX
- SG_ temperature_value_19 : 32|16@1+ (1,0) [0|0] "" Vector__XXX
- SG_ temperature_value_20 : 48|16@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ temperature_value_17 : 0|16@1+ (0.01,0) [0|0] "ºC" Vector__XXX
+ SG_ temperature_value_18 : 16|16@1+ (0.01,0) [0|0] "ºC" Vector__XXX
+ SG_ temperature_value_19 : 32|16@1+ (0.01,0) [0|0] "ºC" Vector__XXX
+ SG_ temperature_value_20 : 48|16@1+ (0.01,0) [0|0] "ºC" Vector__XXX
 
 BO_ 277 Slave_02_Temperature_ID_3: 8 AMS
- SG_ temperature_value_21 : 0|16@1+ (1,0) [0|0] "" Vector__XXX
- SG_ temperature_value_22 : 16|16@1+ (1,0) [0|0] "" Vector__XXX
- SG_ temperature_value_23 : 32|16@1+ (1,0) [0|0] "" Vector__XXX
- SG_ temperature_value_24 : 48|16@1+ (1,0) [0|0] "" Vector__XXX
+ SG_ temperature_value_21 : 0|16@1+ (0.01,0) [0|0] "ºC" Vector__XXX
+ SG_ temperature_value_22 : 16|16@1+ (0.01,0) [0|0] "ºC" Vector__XXX
+ SG_ temperature_value_23 : 32|16@1+ (0.01,0) [0|0] "ºC" Vector__XXX
+ SG_ temperature_value_24 : 48|16@1+ (0.01,0) [0|0] "ºC" Vector__XXX
 
 BO_ 278 Slave_02_MSC_ID_1: 8 AMS
  SG_ module_voltage_sum : 0|16@1+ (1,0) [0|0] "" Vector__XXX
